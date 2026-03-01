@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 Hi, ich bin Omar
 
+
+🎓 Schüler 2. Oberstufe
+Ich lerne Programmieren und arbeite an eigenen Projekten.
+Mein Ziel: Ein grossartiger Programmierer zu werden und Coden zu meinem Beruf zu machen!
+
+---
+
+### 🛠️ Skills
+- Web: HTML, CSS, JavaScript  
+- Python  
+- Scratch  
+- Tools: Git & GitHub
+
+---
+
+### 📂 Projekte
+- WebsiteCheatsheet (gemacht)  
+- Taschenrechner (in Arbeit)  
+- Spiele-Projekte (z. B. Flappy Bird, Geometry Dash – geplant)
+
+---
+
+### 🎯 Über mich
+Ich bin motiviert, zuverlässig und lerne schnell.  
+Ich arbeite gerne an eigenen Projekten und probiere neue Technologien aus.  
+Aktuell suche ich Möglichkeiten, praktische Erfahrungen zu sammeln (z. B. Praktikum oder Schülerprojekt).
+
+---
+
+### 📫 Kontakt
+- GitHub: omar.vscode@outlook.de
+- E-Mail (Für Unternehmen, Firmen): omar.aly17@outlook.de
 <!--
 **OmarCodeInformatik/OmarCodeInformatik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
