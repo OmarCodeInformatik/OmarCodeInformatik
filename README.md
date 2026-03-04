@@ -18,7 +18,6 @@ Mein Ziel: Ein grossartiger Programmierer zu werden und Coden zu meinem Beruf zu
 ### 📂 Projekte
 - WebsiteCheatsheet (gemacht)  
 - Spiele-Projekte (z. B. Flappy Bird, Geometry Dash – geplant)
-- Quran für Muslime. Übersetzt und erklärt. (In Arbeit)
 
 - Schreibt Ideen auf meiner E-mail!!
 
