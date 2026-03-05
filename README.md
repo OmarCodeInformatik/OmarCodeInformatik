@@ -18,9 +18,10 @@ Mein Ziel: Ein grossartiger Programmierer zu werden und Coden zu meinem Beruf zu
 ### 📂 Projekte
 - WebsiteCheatsheet (gemacht)
 - 2 Taschenrechner (gemacht)
-- Spiele-Projekte (z. B. Flappy Bird, Geometry Dash – geplant)
+- Flappy Bird (in Arbeit)
+- Spiele-Projekte (Geometry Dash – geplant)
 
-- Schreibt Ideen auf meiner E-mail!!
+- Schreibt Ideen auf meiner E-mail
 
 ---
 
