@@ -20,6 +20,7 @@ Mein Ziel: Ein grossartiger Programmierer zu werden und Coden zu meinem Beruf zu
 - 2 Taschenrechner (gemacht)
 - Flappy Bird (in Arbeit)
 - Spiele-Projekte (Geometry Dash – geplant)
+- Fiktive Firma Webseite (geplant)
 
 - Schreibt Ideen auf meiner E-mail
 
