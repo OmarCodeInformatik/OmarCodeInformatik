@@ -1,4 +1,4 @@
-## 👋 Hi, ich bin Omar
+## 👋 Hi, ich bin Omar!
 
 
 🎓 Schüler 2. Oberstufe
