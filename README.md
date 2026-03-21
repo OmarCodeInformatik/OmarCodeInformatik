@@ -35,7 +35,6 @@ Aktuell suche ich Möglichkeiten, praktische Erfahrungen zu sammeln (z. B. Prakt
 ---
 
 ### 📫 Kontakt
-- GitHub: omar.vscode@outlook.de
-- E-Mail (Für Unternehmen, Firmen): omar.aly17@outlook.de
+- E-Mail: omar.aly0@outlook.com
 <!--
 **OmarCodeInformatik/OmarCodeInformatik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
